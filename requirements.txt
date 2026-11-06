@@ -1,0 +1,3 @@
+PyQt6
+mido
+pygame-ce # or pygame
