@@ -1,0 +1,38 @@
+Title: \htitlefont 한글 노래
+Composer: \hcomposerfont 채동선 작곡
+Poet: \hcomposerfont 이극로 작사
+Meter: C
+Sharps: 1
+Style: Singer
+Bars/Line: 5
+Indent: 0.05
+Space: 3; 10 6
+%% \input luatexko.sty
+%% \input iftex.sty
+%% \ifluatex
+%% \def\htitlefont{\hangulfont="Noto Sans CJK KR Medium" at 14pt}
+%% \def\hcomposerfont{\hangulfont="Noto Serif CJK KR" at 10pt}
+%% \hangulfont="Noto Sans CJK KR Light" at 10.5pt
+%% \else\ifpdftex
+%% \def\htitlefont{\hfont{nanumgtb}{at 14pt}}
+%% \def\hcomposerfont{\hfont{nanumgtm}{at 12pt}}
+%% \hfont{nanumgtm}{at 10pt}
+%% \fi\fi
+
+%%It110
+% 아래에 악보 코드를 입력하세요.
+@-4 d=8d d1 | g4 b4 d4 d8d c1 b2d b4 a4d g8 g4 ( f8d g1 ) a2d d-8d d1 
+L: 세 종 임 금 한 글 펴 니 스 물 여 덟 글 자 사 람 
+L: 온 세 상 의 모 든 글 씨 견 주 어 보 아 라 조 리 
+L: 오 래 동 안 묻 힌 옥 돌 갈 고 또 닦 아 서 새 빛 
+
+g4 b4 d4 d8d c1 b2d b4 c4d a8 g4 f4 g2d a8d b1 
+L: 마 다 쉬 배 워 서 쓰 기 도 편 하 다 _ _ 
+L: 있 고 아 름 답 기 으 뜸 이 되 도 다 슬 기 
+L: 나 는 하 늘 아 래 골 고 루 뿌 리 세 _ _
+
+c4 c c ( b8d c1 ) d2d e4 d4d c8 b4 g d+2d e8d d1 
+L: 에 주 린 무 리 이 한 글 나 라 로 모 든 
+
+c4 b a d8d b1 g2d b8d a1 (u d-4d c+8 ) a4 d4 g-2d |.
+L: 문 화 그 근 본 을 밝 히 려 갈 거 나 

@@ -1,0 +1,11 @@
+Title: Minuet
+Name: Piano
+Meter: 3/4
+Flats: 1
+Style: Piano
+Bars/Line: 4
+
+%%I
+% 아래에 악보 코드를 입력하세요.
+e+8 d | c b a b c d | e4 a e | f4 f8 e d e | f2 d4 
+r4    | a2d zc ze   | g2d- za zc ze | f2d- za zd | d4- e+8 d c b 

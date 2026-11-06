@@ -1,0 +1,158 @@
+Title: \Bigtype Adagio\\ \bigtype 2nd movement of Sonata in F major KV.~280
+Composer: W. A. Mozart
+Meter: 6/8
+Flats: 4
+Style: Piano
+Size: 16
+Bars/Line: 5
+Space: 10; 8
+PMX: AI12
+
+%%Iipit60
+% 아래에 악보 코드를 입력하세요.
+U: !bf @<+6 Adagio.
+c=+8d Df oT0 d1 c8 ( c4 f8 )
+f=4 za r8 r4 r8
+
+g=8d a1 g8 g8 r8 r8 // { f=+4d f8 } e d
+{Al b4d {Bu zd b8 }A zd }B r8 r8 
+
+{Al en4d {Bl zg Dp+4 e8 }A zg }B f8 za g8 zb // c2d
+c8d d1 c8 c4d 
+
+b=8d Df zg a1 zf g8 zen {1-2 {2u-1 a4d zf 
+d=2d // { d=+4d d8d } c1 bn8
+
+a8d zf }1+1 }2+2 Dp b1 zg a8 zf g8 zen a8 zf b8 zg 
+c=2d // c2d 
+
+b=8d Df zg a1 zf g8 zen {1-2 {2u-1 a4d zf 
+d=2d // { d=+4d d8d } c1 bn8
+
+a8d zf }1+1 }2+2 Dp g1 zen a8 zf b8 zg a8 zf g8 ze 
+c=2d // { c4d c4 } bf8 
+
+(l en4d (1u zg Df f8 ) zf )1 r8 r8 of 
+{ f4d f8 } r8b r8b // ( b4d a8 ) r8+0 r8+0 of 
+
+% bar 9
+a8 Dp r a b r b | { b4d Df c8 } r a | d8 r c f r f- Dp | ( a4d g8 ) r e+
+ef1 D"legato" a c a e a e g b g e g | e g b g e g e a c a e a | f a d a e a dn- f b f d f | e a c a e a e g b g e g 
+
+( dn4d Df a8+ ) r8 r | ( g4d Dp b8 ) r r |
+ff1 a cf a f a f a c a f a | e g b g e g e g b g e+ b | 
+
+( cf4d Df a8 ) r r | ( e4d+ Dp g8- ) r r |
+C0 dn1 f a f d f d f cf+ f- d f | df g b g d g d e b+ e- d e  
+
+r8 a o. a o. r8 f o. f o. | r8 e o. e o. r8 g o. g o. |
+c1 e a e c e d f a f d f | e a c a e a [u e b+ d b d b ] |
+
+a4 Df ( c1 a ) ( g1 f8 ) ( a1 g f ) | ( [ f1 e8 ) ( f3 e ] [ d c b a ] ) b4d oT5 G2m2Wa b |
+f1 a c a f a d- f a f d f C6 e- a c a e a e g d+ g- e g 
+
+a8 r c8u zb zg Dp c8u za zf r8 d8+u zb zf Df 
+a8 r ( en f ) r8 d8l 
+
+e=4 d8 c8 r8b C6 r8b Dp // c=+8d za d1 zb b8 zg a8 ze r8 c=8 zb zg 
+ef4 ( e8- a8 ) r ( en 
+
+r4db e-4 d8 // c=8 za zf r8 d+8 zb zf Df c8d+ za d1 zb b8 zg 
+f8 ) r d8 ef4 e8
+
+( b=-4d zg zd a8+ ) ze r8 r8 :|
+( a4d a8- ) r r :|:
+
+% bar 25
+C0 e=+8d oT0  Dp-2 f1 e8 e4 e8
+rp
+
+{ an=4d {Al zc Df+1 a8 } zc }A rb rb // ( e=+4 f8 ) gf8 r r 
+C0 ( gf=+4 f8 ) e8 r r 
+
+{ an=-4d {Al zc Dp+6 a8 } zc }A rb rb // ( e=4 f8 ) gf8 r r 
+C6 ( gf=4 f8 ) e8 r r 
+
+b=8 zf o. Df an ze o. b+ zd- o. f8 ? zc+ ze ? r8 r8 
+[l d8 zd+ o. c8- zc+ o. b8- zb+ o. ] an8-l zan+ o. r r 
+
+r4db Dp r1 (l-7 [ d=+ c d e d ] // r1  ( [l d=+ c d e d ] { gf4d )
+b-8 r r r1 ( [ b+ an b c b ] 
+
+{ c4d )-7 c1 } (Bl-8 c bn c df c // gf1 } (+7 g f g af g { f4d )+7
+{ a4d ) ( a1 } af g a bf a 
+
+bn8 )B-6 r-2 r-2 r1 [ (Au ef1 dn e f e ] // f1 } (+8 f en f gn f )+8 r4db
+g=8 ) r r fs8 r r // r1+8 [ (l dn=+ cs d ef d ) ] r1+8 [ (l cn bn c d c ) ]
+
+bn=8 zdn )A r r r4 of r8 
+r1 [ ( g1 Df+18 fs g af g ) ] g-8 ofd r8 r8
+
+% bar 33
+g=8d oT0 Df a1 g8 (u g4 c8 )
+c=4 ze r8 r4 r8 
+
+dn=8d e1 d8 d r-6 r-6 // { c4d c8 } bf a 
+{l f4d {B za f8 } za }B r8 r8 
+
+{ bn4d {B zdn Dp+4 b8 } zd }B c8 ze d8 zf // { g2d
+g8d a1 g8 g4d 
+
+{ c4d zf c8 } zen r8-8 r8-8 // {B g4de } g8 }B ( a8 zf bf8 zg )
+( c8d- df1 c8 ) c4d 
+
+% bar 37
+c=+8d Df oT0 d1 c8 ( c4 f8 )
+f=4 za r8 r4 r8
+
+g=8d a1 g8 g8 r8 r8 // { f=+4d f8 } e d
+{Al b4d {Bu zd b8 }A zd }B r8 r8 
+
+{Al en4d {Bl zg Dp+4 e8 }A zg }B f8 za g8 zb // c2d
+c8d d1 c8 c4d 
+
+b=8d Df zg a1 zf g8 zen {1-2 {2u-1 a4d zf 
+d=2d // { d=+4d d8d } c1 bn8
+
+a8d zf }1+1 }2+2 Dp g1 zen a8 zf b8 zg a8 zf g8 ze 
+c=2d // { c4d c4 } bf8 
+
+(l en4d (1u zg Df f8 ) zf )1 r8 r8 of 
+{ f4d f8 } r8b r8b // ( b4d a8 ) r8+0 r8+0 of 
+
+% bar 43
+c=+8 Dp r c c r c ( c4d Df b8 ) r af 
+f=1 D"legato" a c a f a ef gf an g e g d f an f d f d f b f c f 
+
+gf8 r b Gsm2a gf8 r f ( f4d Dp en8 ) r c+ 
+b1- d b+ d- b d b d b+ d- bn a+ c- f a f c f c en g e c e  
+
+( bn4d Df f+8 ) r r ( en4d Dp g8 ) r r 
+d f a f d f d f a f d f c en g e c e c e g e c+ g 
+
+( a4d Df Gm2g f8 ) r r ( df4d+ Dp en8- ) r r 
+C0 bn1 dn f d b d b d a+ d- b d bf en g e b g+ b- df g d b g+
+
+r8 f o. f o. r d o. d o. r c o. c o. r en o. e o. 
+a-1 c f c a c b d f d b d c f a f c f c g+ b g b g 
+
+% bar 53
+f4 Df ( c1+ a ) ( a1 g ) ( d+ b ) ( b g )
+a1- c f c a c b d f d b d 
+
+% bar 54-55: patch Way-after graces in PMX 
+Gsm2g f4d Dp gf4d oT5 G2m2Wf g  ( f8 Dp gn a ) ( a- b bn )
+c f a f c f C6 c1- e an e c e  d f bn f d f dn f af f d f 
+
+% bar 56-57: patch Way-after graces in PMX
+( c1 Df df dn ef en f ) G2sm2f- a g4d oT6 G2m2Wf g  f8 r f8 zef zc Dp f8 zd zb r8 d8+u zf- Df
+c=8 r r (+3 c1 en bf+ e- c e  f8 )+1 r8 ( an- b8 ) r8 b8 
+
+c=4 b8 a8 r8b (Au+6 (B gf+ zef+ Dp+1 // a=8d zf b1 zg g8 zen f8 r8+0 r8b
+c4 c8- f8 r (1 (2+8u anl zan+ 
+
+d8u zf- )A+6 )B r8 a8 zf+ Df a8d- (A zf b1 zgn g8 zen )A
+b=-8l zb+ )1-8 )2 r8 bn8 zdn c4 bf8 zc- 
+
+(Au g4d zen (Bl zb f8++ )A za- )B r8 r8 :|
+( f4d f8- )+6 r8 r8 :|

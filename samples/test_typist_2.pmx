@@ -1,0 +1,32 @@
+---
+\def\mtxversion{0.63d}
+\def\mtxdate{<26 July 2022>}
+\input mtx
+ \input mtxpos
+\mtxTitleLine{Minuet}
+---
+2 -1 2 3 4 3 4  1.00000 -1 0 4 20 0.12
+\mtxInstrName{Piano}
+60
+./
+Tt
+\mtxTitle
+w190m
+% Paragraph 2 line 9 bar 0
+I
+r4 a23d zc ze | /
+e85 d8 | c8 b8 a8 b8 c8 d8 | /
+
+%Bar 2
+g2-d za zc ze | /
+e4 a4 e4 | /
+
+%Bar 3
+f2-d za zd | /
+f4 f8 e8 d8 e8 | /
+
+%Bar 4
+d4- e8+ d8 c8 b8 /
+f2 d4 /
+
+% Coded by M-Tx

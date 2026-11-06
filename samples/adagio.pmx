@@ -1,0 +1,287 @@
+---
+\def\mtxversion{0.63d}
+\def\mtxdate{<26 July 2022>}
+\input mtx
+\mtxComposerLine{}{W. A. Mozart}
+\mtxTitleLine{\Bigtype Adagio\\ \bigtype 2nd movement of Sonata in F major KV.~280}
+---
+2 -1 2 6 8 6 8  0.00000 -4 0 5 16 0
+
+60
+./
+\\mtxStaffBottom{8}\
+\\mtxSetSize{1}{\mtxNormalSize}\
+Tc
+\mtxPoetComposer
+Tt10
+\mtxTitle
+AI12
+w190m
+% Paragraph 2 line 11 bar 1
+Iipit60
+f43 za r8 r4 r8 /
+\mtxCchar{16}{\bf{Adagio.}}\ c85d Df oT0 d1 c8 (S c4 f8 )S /
+
+% Paragraph 3 line 17 bar 2
+{Al b4d {Bu zd b8 }A zd }B r8 r8 /
+g84d a1 g8 g8 r8 r8 //
+{ f45d f8 } e8 d8 /
+
+% Paragraph 4 line 20 bar 3
+c8d d1 c8 c4d /
+{Al e4nd {Bl zg Dp+4 e8 }A zg }B f8 za g8 zb //
+c2d /
+
+% Paragraph 5 line 23 bar 4
+d23d //
+{ d44d d8d } c1 b8n /
+b84d Df zg a1 zf g8 zen {1-2 {2u-1 a4d zf /
+
+% Paragraph 6 line 26 bar 5
+c23d //
+c2d /
+a8d zf }1+1 }2+2 Dp b1 zg a8 zf g8 zen a8 zf b8 zg /
+
+% Paragraph 7 line 29 bar 6
+d23d //
+{ d44d d8d } c1 b8n /
+b84d Df zg a1 zf g8 zen {1-2 {2u-1 a4d zf /
+
+% Paragraph 8 line 32 bar 7
+c23d //
+{ c4d c4 } b8f /
+a8d zf }1+1 }2+2 Dp g1 zen a8 zf b8 zg a8 zf g8 ze /
+
+% Paragraph 9 line 35 bar 8
+{ f4d f8 } r8b r8b //
+(S b4d a8 )S r8+0 r8+0 of /
+(Sl e4nd (1u zg Df f8 )S zf )1 r8 r8 of /
+
+% Paragraph 10 line 38 bar 9
+e1f D"legato" a1 c1 a1 e1 a1 e1 g1 b1 g1 e1 g1 | /
+a8 Dp r8 a8 b8 r8 b8 | /
+
+%Bar 10
+e1 g1 b1 g1 e1 g1 e1 a1 c1 a1 e1 a1 | /
+{ b4d Df c8 } r8 a8 | /
+
+%Bar 11
+f1 a1 d1 a1 e1 a1 d1-n f1 b1 f1 d1 f1 | /
+d8 r8 c8 f8 r8 f8- Dp | /
+
+%Bar 12
+e1 a1 c1 a1 e1 a1 e1 g1 b1 g1 e1 g1 /
+(S a4d g8 )S r8 e8+ /
+
+% Paragraph 11 line 42 bar 13
+f1f a1 c1f a1 f1 a1 f1 a1 c1 a1 f1 a1 | /
+(S d4nd Df a8+ )S r8 r8 | /
+
+%Bar 14
+e1 g1 b1 g1 e1 g1 e1 g1 b1 g1 e1+ b1 | /
+(S g4d Dp b8 )S r8 r8 | /
+
+% Paragraph 12 line 45 bar 15
+C0 d1n f1 a1 f1 d1 f1 d1 f1 c1+f f1- d1 f1 | /
+(S c4fd Df a8 )S r8 r8 | /
+
+%Bar 16
+d1f g1 b1 g1 d1 g1 d1 e1 b1+ e1- d1 e1 /
+(S e4+d Dp g8- )S r8 r8 | /
+
+% Paragraph 13 line 48 bar 17
+c1 e1 a1 e1 c1 e1 d1 f1 a1 f1 d1 f1 | /
+r8 a8 o. a8 o. r8 f8 o. f8 o. | /
+
+%Bar 18
+e1 a1 c1 a1 e1 a1 [u e1 b1+ d1 b1 d1 b1 ] | /
+r8 e8 o. e8 o. r8 g8 o. g8 o. | /
+
+% Paragraph 14 line 51 bar 19
+f1 a1 c1 a1 f1 a1 d1- f1 a1 f1 d1 f1 /
+a4 Df (S c1 a1 )S (S g1 f8 )S (S a1 g1 f1 )S | /
+
+%Bar 20
+C6 e1- a1 c1 a1 e1 a1 e1 g1 d1+ g1- e1 g1 /
+(S [ f1 e8 )S (S f3 e3 ] [ d3 c3 b3 a3 ] )S b4d oT5 G2m2Wa b | /
+
+% Paragraph 15 line 54 bar 21
+a8 r8 (S e8n f8 )S r8 d8l /
+a8 r8 c8u zb zg Dp c8u za zf r8 d8+u zb zf Df /
+
+% Paragraph 16 line 57 bar 22
+e4f (S e8- a8 )S r8 (S e8n /
+e44 d8 c8 r8b C6 r8b Dp //
+c85d za d1 zb b8 zg a8 ze r8 c84 zb zg /
+
+% Paragraph 17 line 60 bar 23
+f8 )S r8 d8 e4f e8 /
+r4bd e4- d8 //
+c84 za zf r8 d8+ zb zf Df c8+d za d1 zb b8 zg /
+
+% Paragraph 18 line 63 bar 24
+(S a4d a8- )S r8 r8 /
+(S b43d zg zd a8+ )S ze r8 r8 /
+
+ Rlr
+% Paragraph 19 line 66 bar 25
+rp /
+C0 e85d oT0 Dp-2 f1 e8 e4 e8 /
+
+% Paragraph 20 line 70 bar 26
+C0 (S g44f f8 )S e8 r8 r8 /
+{ a44nd {Al zc Df+1 a8 } zc }A r8b r8b //
+(S e45 f8 )S g8f r8 r8 /
+
+% Paragraph 21 line 73 bar 27
+C6 (S g43f f8 )S e8 r8 r8 /
+{ a43nd {Al zc Dp+6 a8 } zc }A r8b r8b //
+(S e44 f8 )S g8f r8 r8 /
+
+% Paragraph 22 line 76 bar 28
+[l d8 zd+ o. c8- zc+ o. b8- zb+ o. ] a8-ln zan+ o. r8 r8 /
+b84 zf o. Df a8n ze o. b8+ zd- o. f8 ? zc+ ze ? r8 r8 /
+
+% Paragraph 23 line 79 bar 29
+b8- r8 r8 r1 (S [ b1+ a1n b1 c1 b1 ] /
+r4bd Dp r1 (Sl-7 [ d15 c1 d1 e1 d1 ] //
+r1 (Q [l d15 c1 d1 e1 d1 ] { g4fd )Q /
+
+% Paragraph 24 line 82 bar 30
+{ a4d )S (S a1 } a1f g1 a1 b1f a1 /
+{ c4d )S-7 c1 } (Bl-8 c1 b1n c1 d1f c1 //
+g1f } (S+7 g1 f1 g1 a1f g1 { f4d )S+7 /
+
+% Paragraph 25 line 85 bar 31
+g83 )S r8 r8 f8s r8 r8 //
+r1+8 [ (Sl d14n c1s d1 e1f d1 )S ] r1+8 [ (Sl c1n b1n c1 d1 c1 )S ] /
+b8n )B-6 r8-2 r8-2 r1 [ (Au e1f d1n e1 f1 e1 ] //
+f1 } (S+8 f1 e1n f1 g1n f1 )S+8 r4bd /
+
+% Paragraph 26 line 88 bar 32
+r1 [ (S g1 Df+18 f1s g1 a1f g1 )S ] g8- ofd r8 r8 /
+b84n zdn )A r8 r8 r4 of r8 /
+
+% Paragraph 27 line 91 bar 33
+c43 ze r8 r4 r8 /
+g84d oT0 Df a1 g8 (Su g4 c8 )S /
+
+% Paragraph 28 line 95 bar 34
+{l f4d {B za f8 } za }B r8 r8 /
+d84nd e1 d8 d8 r8-6 r8-6 //
+{ c4d c8 } b8f a8 /
+
+% Paragraph 29 line 98 bar 35
+g8d a1 g8 g4d /
+{ b4nd {B zdn Dp+4 b8 } zd }B c8 ze d8 zf //
+{ g2d /
+
+% Paragraph 30 line 101 bar 36
+(S c8-d d1f c8 )S c4d /
+{ c4d zf c8 } zen r8-8 r8-8 //
+{B g4ed } g8 }B (S a8 zf b8f zg )S /
+
+% Paragraph 31 line 104 bar 37
+f43 za r8 r4 r8 /
+c85d Df oT0 d1 c8 (S c4 f8 )S /
+
+% Paragraph 32 line 108 bar 38
+{Al b4d {Bu zd b8 }A zd }B r8 r8 /
+g84d a1 g8 g8 r8 r8 //
+{ f45d f8 } e8 d8 /
+
+% Paragraph 33 line 111 bar 39
+c8d d1 c8 c4d /
+{Al e4nd {Bl zg Dp+4 e8 }A zg }B f8 za g8 zb //
+c2d /
+
+% Paragraph 34 line 114 bar 40
+d23d //
+{ d44d d8d } c1 b8n /
+b84d Df zg a1 zf g8 zen {1-2 {2u-1 a4d zf /
+
+% Paragraph 35 line 117 bar 41
+c23d //
+{ c4d c4 } b8f /
+a8d zf }1+1 }2+2 Dp g1 zen a8 zf b8 zg a8 zf g8 ze /
+
+% Paragraph 36 line 120 bar 42
+{ f4d f8 } r8b r8b //
+(S b4d a8 )S r8+0 r8+0 of /
+(Sl e4nd (1u zg Df f8 )S zf )1 r8 r8 of /
+
+% Paragraph 37 line 123 bar 43
+f13 D"legato" a1 c1 a1 f1 a1 e1f g1f a1n g1 e1 g1 /
+c85 Dp r8 c8 c8 r8 c8 /
+
+%Bar 44
+d1 f1 a1n f1 d1 f1 d1 f1 b1 f1 c1 f1 /
+(S c4d Df b8 )S r8 a8f /
+
+% Paragraph 38 line 127 bar 45
+b1- d1 b1+ d1- b1 d1 b1 d1 b1+ d1- b1n a1+ /
+g8f r8 b8 Gsm2a g8f r8 f8 /
+
+%Bar 46
+c1- f1 a1 f1 c1 f1 c1 e1n g1 e1 c1 e1 /
+(S f4d Dp e8n )S r8 c8+ /
+
+% Paragraph 39 line 130 bar 47
+d1 f1 a1 f1 d1 f1 d1 f1 a1 f1 d1 f1 /
+(S b4nd Df f8+ )S r8 r8 /
+
+%Bar 48
+c1 e1n g1 e1 c1 e1 c1 e1 g1 e1 c1+ g1 /
+(S e4nd Dp g8 )S r8 r8 /
+
+% Paragraph 40 line 133 bar 49
+C0 b1n d1n f1 d1 b1 d1 b1 d1 a1+ d1- b1 d1 /
+(S a4d Df Gm2g f8 )S r8 r8 /
+
+%Bar 50
+b1f e1n g1 e1 b1 g1+ b1- d1f g1 d1 b1 g1+ /
+(S d4+fd Dp e8-n )S r8 r8 /
+
+% Paragraph 41 line 136 bar 51
+a1- c1 f1 c1 a1 c1 b1 d1 f1 d1 b1 d1 /
+r8 f8 o. f8 o. r8 d8 o. d8 o. /
+
+%Bar 52
+c1 f1 a1 f1 c1 f1 c1 g1+ b1 g1 b1 g1 /
+r8 c8 o. c8 o. r8 e8n o. e8 o. /
+
+% Paragraph 42 line 139 bar 53
+a1- c1 f1 c1 a1 c1 b1 d1 f1 d1 b1 d1 /
+f4 Df (S c1+ a1 )S (S a1 g1 )S (S d1+ b1 )S (S b1 g1 )S /
+
+% Paragraph 43 line 143 bar 54
+c1 f1 a1 f1 c1 f1 C6 c1- e1 a1n e1 c1 e1 /
+Gsm2g f4d Dp g4fd oT5 /
+
+%Bar 55
+d1 f1 b1n f1 d1 f1 d1n f1 a1f f1 d1 f1 /
+G2m2Wf g (S f8 Dp g8n a8 )S (S a8- b8 b8n )S /
+
+% Paragraph 44 line 147 bar 56
+c83 r8 r8 (S+3 c1 e1n b1+f e1- c1 e1 /
+(S c1 Df d1f d1n e1f e1n f1 )S G2sm2f- a g4d oT6 /
+
+%Bar 57
+f8 )S+1 r8 (S a8-n b8 )S r8 b8 /
+G2m2Wf g f8 r8 f8 zef zc Dp f8 zd zb r8 d8+u zf- Df /
+
+% Paragraph 45 line 151 bar 58
+c4 c8- f8 r8 (1 (2+8u a8ln zan+ /
+c44 b8 a8 r8b (Au+6 (B g8+f zef+ Dp+1 //
+a84d zf b1 zg g8 zen f8 r8+0 r8b /
+
+% Paragraph 46 line 154 bar 59
+b82l zb+ )1-8 )2 r8 b8n zdn c4 b8f zc- /
+d8u zf- )A+6 )B r8 a8 zf+ Df a8-d (A zf b1 zgn g8 zen )A /
+
+% Paragraph 47 line 157 bar 60
+(S f4d f8- )S+6 r8 r8 Rr
+ /
+(Au g4d zen (Bl zb f8+ )A za- )B r8 r8 /
+
+% Coded by M-Tx

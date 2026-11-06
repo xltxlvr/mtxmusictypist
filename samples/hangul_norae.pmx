@@ -1,0 +1,90 @@
+---
+\def\mtxversion{0.63d}
+\def\mtxdate{<26 July 2022>}
+\input mtx
+ \input luatexko.sty
+ \input iftex.sty
+ \ifluatex
+ \def\htitlefont{\hangulfont="Noto Sans CJK KR Medium" at 14pt}
+ \def\hcomposerfont{\hangulfont="Noto Serif CJK KR" at 10pt}
+ \hangulfont="Noto Sans CJK KR Light" at 10.5pt
+ \else\ifpdftex
+ \def\htitlefont{\hfont{nanumgtb}{at 14pt}}
+ \def\hcomposerfont{\hfont{nanumgtm}{at 12pt}}
+ \hfont{nanumgtm}{at 10pt}
+ \fi\fi
+ \input mtxpos
+\mtxComposerLine{\hcomposerfont 이극로 작사}{\hcomposerfont 채동선 작곡}
+\mtxTitleLine{\htitlefont 한글 노래}
+---
+1 -1 1 4 4 0 6  1.00000 1 0 5 20 0.05
+
+0
+./
+\\mtxStaffBottom{10}\
+Tc
+\mtxPoetComposer
+Tt3
+\mtxTitle
+w190m
+% Paragraph 2 line 23 bar 0
+It110
+\\\mtxSetLyrics{11}{세 종 임 금 한 글 펴 니 스 물 여 덟 글 자 사 람 }\
+\\\mtxSetLyrics{12}{온 세 상 의 모 든 글 씨 견 주 어 보 아 라 조 리 }\
+\\\mtxSetLyrics{13}{오 래 동 안 묻 힌 옥 돌 갈 고 또 닦 아 서 새 빛 }\
+\\\mtxAssignLyrics{1}{11,12,13}\
+\\\mtxLyricsAdjust{1}{-4}\ da84d da1 g4 b4 d4 da8d ca1 /
+
+%Bar 2
+b2d b4 /
+
+%Bar 3
+a4d ga8 g4 (S \mtxBM\ f8d \mtxEM\ g1 )S /
+
+%Bar 4
+a2d da8-d da1 /
+
+% Paragraph 3 line 30 bar 5
+\\\mtxSetLyrics{11}{마 다 쉬 배 워 서 쓰 기 도 편 하 다 _ _ }\
+\\\mtxSetLyrics{12}{있 고 아 름 답 기 으 뜸 이 되 도 다 슬 기 }\
+\\\mtxSetLyrics{13}{나 는 하 늘 아 래 골 고 루 뿌 리 세 _ _}\
+g4 b4 d4 da8d ca1 /
+
+%Bar 6
+b2d b4 /
+
+%Bar 7
+c4d aa8 g4 f4 /
+
+%Bar 8
+g2d aa8d ba1 /
+
+% Paragraph 4 line 35 bar 9
+\\\mtxSetLyrics{11}{에 주 린 무 리 이 한 글 나 라 로 모 든 }\
+\\\mtxAssignLyrics{1}{11}\
+c4 c4 c4 (S \mtxBM\ b8d \mtxEM\ c1 )S /
+
+%Bar 10
+d2d e4 /
+
+%Bar 11
+d4d ca8 b4 g4 /
+
+%Bar 12
+d2+d ea8d da1 /
+
+% Paragraph 5 line 38 bar 13
+\\\mtxSetLyrics{11}{문 화 그 근 본 을 밝 히 려 갈 거 나 }\
+c4 b4 a4 da8d ba1 /
+
+%Bar 14
+g2d ba8d aa1 /
+
+%Bar 15
+(Su \mtxBM\ d4-d \mtxEM\ c8+ )S a4 d4 /
+
+%Bar 16
+m3/4/0/0
+g2-d /
+
+% Coded by M-Tx
