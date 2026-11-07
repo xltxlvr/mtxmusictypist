@@ -141,5 +141,5 @@ See [BUILD.md](BUILD.md). In short: `pip install pyinstaller PyQt6 mido pygame` 
 
 ## Acknowledgements
 
-Built on [M-Tx](https://ctan.org/pkg/mtx), [PMX](https://ctan.org/pkg/pmx) and
+Built on [M-Tx](https://ctan.org/pkg/m-tx), [PMX](https://ctan.org/pkg/pmx) and
 [MusiXTeX](https://ctan.org/pkg/musixtex).
